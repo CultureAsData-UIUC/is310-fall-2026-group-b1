@@ -1,0 +1,69 @@
+Total events: 60
+Distinct story sections: 3
+Explicit jinn events: 12
+Unique motif codes: 45
+
+Story Title
+  Merchant and Genius: 32
+  First Old Man and Hind: 23
+  Second Old Man and Two Black Dogs: 5
+
+Motif Code
+  conditional_mercy: 4
+  witness: 3
+  story_bargain: 3
+  supernatural_appearance: 2
+  mercy_request: 2
+  transformation_revealed: 2
+  transformation: 2
+  deception: 2
+  animal_sign: 2
+  mercy: 2
+  generosity: 2
+  journey: 1
+  setting: 1
+  ordinary_action: 1
+  accusation: 1
+  fear: 1
+  denial: 1
+  investigation: 1
+  unintended_harm: 1
+  refusal: 1
+  defense: 1
+  violence_threat: 1
+  family_obligation: 1
+  delay_request: 1
+  distrust: 1
+  promise: 1
+  bargain: 1
+  disclosure: 1
+  duty: 1
+  promise_kept: 1
+  supernatural_warning: 1
+  intercession: 1
+  transformation_consequence: 1
+  resistance: 1
+  magical_knowledge: 1
+  recognition: 1
+  revelation: 1
+  help_request: 1
+  conditional_help: 1
+  retribution: 1
+  transformation_reversal: 1
+  gratitude: 1
+  punitive_transformation: 1
+  misfortune: 1
+  persuasion: 1
+
+Supernatural Role
+  threat: 25
+  helper: 12
+  mixed: 11
+  none: 8
+  victim: 4
+
+Actor Type
+  human: 33
+  genius: 12
+  human_magician: 11
+  transformed_human: 4
