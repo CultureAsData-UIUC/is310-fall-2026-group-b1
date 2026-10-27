@@ -17,7 +17,7 @@
 ### Next Steps
 - We will start brainstorming web design. We will also wait for feedback on our milestone 1 dataset we found for auditing.
 
-## 10-06-2026
+## 2026-10-06
 
 ### What We Worked On
 - Read over the feedback given and discussed next steps based on the feedback and for the website
@@ -28,10 +28,34 @@
 ### Contributions
 - Anika - worked on the what we worked on section and contributed to group discussion
 - Aurora - contributed to group discussion and decision-making, as well as the work log
-- Katie - added notes to readme/GitHub
+- Katie - added notes to worklog markdown file
 - Erin - Suggested we add a instructions section on how to pull/push the group log and that we should look more into Google Sites after HTML exposure 
 - Vanisha - contributed to group discussion and wrote ‘next steps’ section
 
 ### Next Steps
 - Start planning the layout of our website on Google Sheets
 - individually research Google Sites and see how everything works
+
+## 2026-10-22
+
+# What we Worked on
+- We checked in with each other, but didn’t have anything to work on.
+
+### Contributions
+- Anika - Attended
+- Aurora - Attended, wrote work-log (on 2026-10-27)
+- Katie - Attended
+- Erin - Attended
+- Vanisha - Attended
+- Rui - Attended
+
+## 2026-10-27
+
+### What We Worked On
+- We checked in with each other, but didn’t have anything to work on.
+
+### Contributions
+- Anika - Attended
+- Aurora - Attended, wrote work-log
+- Katie - Attended
+- Erin - Attended
