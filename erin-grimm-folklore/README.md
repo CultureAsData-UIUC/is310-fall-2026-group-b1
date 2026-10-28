@@ -1,9 +1,5 @@
 # German Folklore and National Identity: Initial Custom Dataset
 
-**Researcher:** Erin Chon  
-**Course:** IS 310 — Culture as Data  
-**Milestone:** 2 — Initial Custom Dataset and Audit Plan
-
 ## Research Question
 
 How did the Brothers Grimm's collection and classification of folktales contribute to the perception of these stories as German, despite their connections to other cultural traditions?
