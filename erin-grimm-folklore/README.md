@@ -61,6 +61,16 @@ The initial validation identified 50 records, no duplicate KHM numbers, and ATU 
 
 The initial dataset demonstrates that the Grimm collection can be represented through a standardized classification system, but ATU classifications describe recurring narrative patterns rather than establishing a tale's geographical origin. The greatest limitation is the incomplete historical source information. Although all entries have titles and classifications, most do not yet contain verified information about their storytellers or cultural connections.In the future I will focus on expanding historical research while maintaining distinctions between documented evidence, cultural parallels, and uncertain origins.
 
+### Scholarly Sources
+
+**Zipes, Jack.** *The Brothers Grimm: From Enchanted Forests to the Modern World*. 2nd ed., Palgrave Macmillan, 2002.
+
+This source is relevant because my project investigates how stories collected from different sources became associated with German cultural identity.
+
+**Bottigheimer, Ruth B.** *Grimms' Bad Girls & Bold Boys: The Moral & Social Vision of the Tales*. Yale University Press, 1987.
+
+This relates to my dataset because representing each tale as a single record can obscure the differences between its historical versions.
+
 ## Sources Used for Dataset Construction
 
 Ashliman, D. L. *The Grimm Brothers' Children's and Household Tales*. University of Pittsburgh. https://sites.pitt.edu/~dash/grimmtales.html
