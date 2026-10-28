@@ -136,18 +136,96 @@ atu_types = {
 # Sources and cultural parallels are NOT necessarily
 # proof of a tale's original geographic origin.
 
+
 research = {
+    1: {
+        "documented_source": "Wild family oral tradition (probable)",
+        "source_region": "Kassel, Hesse",
+        "cross_cultural_connection": "Comparable frog-bridegroom tales in other traditions",
+        "source_evidence_status": "probable",
+        "origin_notes": "The precise informant is unknown. The tale apparently came from the Wild family's oral tradition in Kassel.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm001.html"
+    },
+
+    12: {
+        "documented_source": "Friedrich Schultz, Kleine Romane (1790)",
+        "source_region": "Leipzig (publication location)",
+        "cross_cultural_connection": "Italian Petrosinella by Basile; French Persinette by de la Force",
+        "source_evidence_status": "documented",
+        "origin_notes": "The Grimms used a printed German-language story by Schultz. Earlier Italian and French literary variants also exist. Publication location is not the tale's origin.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm012a.html"
+    },
+
+    15: {
+        "documented_source": "Hessian oral stories; Wild household (probable)",
+        "source_region": "Hesse, German-speaking region",
+        "cross_cultural_connection": "Italian Ninnillo and Nennella by Basile; related French Little Thumb by Perrault",
+        "source_evidence_status": "probable",
+        "origin_notes": "The specific original storyteller is uncertain. Dortchen Wild contributed a verse in 1813. The Grimms revised the tale across editions.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm015.html"
+    },
+
+    19: {
+        "documented_source": "Philipp Otto Runge manuscript",
+        "source_region": "Low German language tradition",
+        "cross_cultural_connection": "Related ATU 555 tales about wishes and dissatisfaction",
+        "source_evidence_status": "documented",
+        "origin_notes": "Runge transmitted a Low German manuscript. It reached the Grimms in 1809. The earlier storyteller and ultimate origin are not established.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm019.html"
+    },
+
+    21: {
+        "documented_source": "Dorothea Viehmann and other sources",
+        "source_region": "Not yet verified",
+        "cross_cultural_connection": "French Cinderella by Charles Perrault; other ATU 510A variants",
+        "source_evidence_status": "documented",
+        "origin_notes": "Viehmann was among the Grimms' sources. Multiple versions contributed to the tale, which was substantially revised for the 1819 edition.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm021.html"
+    },
+
+    24: {
+        "documented_source": "Henriette Dorothea Wild; later details from G. A. F. Goldmann",
+        "source_region": "Kassel-associated Wild family; Goldmann in Hannover",
+        "cross_cultural_connection": "Frau Holle regional legendary traditions",
+        "source_evidence_status": "documented",
+        "origin_notes": "Dortchen Wild supplied the initial version. Goldmann contributed details incorporated into the second edition.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm024.html"
+    },
+
     26: {
         "documented_source": "Jeanette and Marie Hassenpflug",
         "source_region": "Not yet verified",
         "cross_cultural_connection": "French literary version by Charles Perrault (1697)",
         "source_evidence_status": "documented",
-        "origin_notes": (
-            "Jeanette supplied the main story and Marie supplied "
-            "the additional episode. Perrault published an earlier "
-            "French literary version. The ultimate origin is uncertain."
-        ),
+        "origin_notes": "Jeanette supplied the main story; Marie supplied the additional episode. The earlier French version does not establish the tale's ultimate origin.",
         "source_citation": "https://sites.pitt.edu/~dash/grimm026.html"
+    },
+
+    27: {
+        "documented_source": "Dorothea Viehmann",
+        "source_region": "Not yet verified",
+        "cross_cultural_connection": "Other ATU 130 animal tales",
+        "source_evidence_status": "documented",
+        "origin_notes": "Viehmann supplied the Grimm version. The tale first appeared in the 1819 edition.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm027.html"
+    },
+
+    39: {
+        "documented_source": "Gretchen Wild",
+        "source_region": "Kassel-associated Wild family",
+        "cross_cultural_connection": "European helpful-elf and changeling legends",
+        "source_evidence_status": "documented",
+        "origin_notes": "Gretchen Wild supplied all three narratives grouped under KHM 39. This record combines multiple tales and classifications.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm039.html"
+    },
+
+    47: {
+        "documented_source": "Philipp Otto Runge",
+        "source_region": "Low German language tradition",
+        "cross_cultural_connection": "Other ATU 720 tales about the murdered child",
+        "source_evidence_status": "documented",
+        "origin_notes": "Runge's written version appeared in 1808 before the Grimms published it. They also knew other versions.",
+        "source_citation": "https://sites.pitt.edu/~dash/grimm047.html"
     },
 
     50: {
@@ -155,14 +233,11 @@ research = {
         "source_region": "Not yet verified",
         "cross_cultural_connection": "French Sleeping Beauty version by Charles Perrault",
         "source_evidence_status": "documented",
-        "origin_notes": (
-            "Marie Hassenpflug supplied the Grimm version. "
-            "An earlier French literary version exists, but "
-            "this does not establish the tale's original birthplace."
-        ),
+        "origin_notes": "Marie Hassenpflug supplied the Grimm version. The earlier French literary version does not establish the tale's original birthplace.",
         "source_citation": "https://sites.pitt.edu/~dash/grimm050.html"
     }
 }
+
 
 # --------------------------------------------------
 # STEP 4: CREATE STRUCTURED DATASET
