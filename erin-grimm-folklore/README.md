@@ -173,6 +173,11 @@ The following resources were used to identify tales, classifications, and histor
 My next steps involve expanding historical-source research, refining dataset categories, and comparing the custom records with existing cultural data.
 I plan to investigate whether additional metadata can preserve information about regional traditions, earlier literary versions, and differences between historical editions.
 
+## AI Use Acknowledgment
+
+I used OpenAI's ChatGPT (GPT-6) to assist with developing my initial dataset and Milestone 2 documentation.  It generated  Python code for dataset validation.
+**AI tool:** OpenAI. *ChatGPT*. GPT-6, October 2026. https://chatgpt.com/
+
 
 ## Project Files
 
@@ -181,3 +186,5 @@ I plan to investigate whether additional metadata can preserve information about
 - [Validation Script](validate_dataset.py)
 - [Audit and Comparison Plan](audit_plan.md)
 - [Milestone 2 Reflection](reflection.md)
+
+  
