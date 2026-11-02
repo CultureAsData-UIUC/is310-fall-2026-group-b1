@@ -1,0 +1,6 @@
+// Influences on Cinematic Athuriana
+digraph cinematic_arthuriana_influences {
+	"Prince Valiant (1954)" [color=green]
+	"Hal Foster's Prince Valiant" [color=yellow]
+	"Hal Foster's Prince Valiant" -> "Prince Valiant (1954)" [color=purple]
+}
