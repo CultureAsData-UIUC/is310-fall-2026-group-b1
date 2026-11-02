@@ -1,4 +1,4 @@
-## Reflections and Custom Data Set Info
+## Custom Data Set Info
 
 
 # Title:
@@ -21,3 +21,12 @@ This should be used ot identify the book later incase we need to go back for inf
 
 # Cover Type:
 This data column was added a little bit later, as I was going through covers I realized the same author could have different covers based between Paperback and Hardcover books. I also am considering adding in Ebook covers but I want the primary emphasis to be on physical books.
+
+
+What cultural materials are you working with and why?
+How did those materials become a working representation, and how did that representation become structured data?
+What published scholarship helps explain your topic, sources, categories, methods, or ethical concerns?
+What computational tools did you use to assist your work? How did they help? What were their limitations?
+What decisions did you make about what to include, exclude, or categorize? Why?
+What challenges did you encounter, and how did you address them?
+What patterns, questions, or tensions emerged from working closely with this data?

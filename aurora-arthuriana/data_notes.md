@@ -1,0 +1,40 @@
+### Research tidbits
+Aronstein:
+- "By the time of th Anglo-Norman conquest of Wales, Arthur was firmly established in both chronicle and legend as a Welsh hero-king, who led a resistance against foreign invasion" p. 31
+- "[geoffrey of monmouth's history of the kings of britain] provides much of what was to become the standard outline of Arthur's story: Merlin's actions as a magician and prophet, Arthur's irregular begetting, the subduing of the kingdom, Arthur's wars on the continent, his marriage to Guenevere, Mordred's treachery, the King's mortal wound, and his retreat to the Island of Avalon." p. 31
+- "These romances, beginning with the works of Chretian de Troyes--*Cliges*, *Yvain*, *Eric at Enid*, *Lancelot*, and *Perceval*--sought to rehabilitate the passing aristocratic order by integrating its values into the new centralized monarchy [...] these tales not only depict the 'good old days' as a time when individual knights found their worth as members of Arthur's court, but they also argue that Arthur's glory invariably depends upon his knights." p. 33
+- chretian de troyes' style (other than *Perceval*) = 
+    - quest for ideal knighthood: a specific threat/challenge to the court sends the heroes into the forest, series of adventures involving the killing or recruiting of renegade knights, adventures end with the aquisition of a lady
+    - because the lady both reifies and threatens the knight's masculine identity, what follows is "a second set of adventures in which the knight must reclaim his masculine identity by relegating the lady back to her proper place as symbol and adjunct" p. 33
+- fundamental to the 12th century aristocratic masculinity thing:
+    - "valorization of the aristocracy's traditional warrior identity" p. 33
+    - "that identity, while technically in the 'service' of the king, is actually vital to the monarch's political survival." p. 33
+    - "women must function only as a signifier of masculine achievement"
+- Grail romances = "ideal aristocratic masculinity is increasingly defines as something in opposition to political power and privileged over it. [...] spiritual or moral prowess trumps physical prowess and the quest for 'true' knighthood signals the end of the political court." p. 34
+- 
+- quote from Lary May: in D.W. Griffith's films, "Men cannot deviate from the work ethic or indulge in what are percieved as immigrant vices, lest they forsake the goals of progress passed on by (the nation's) father" p. 57
+- Griffith's "Progressive Doctrine" seen in *The Grail* (1915) and *The Kights of the Square Table* (1917) "presented a chivalric version of his central narrative of democratic possibility and the American virtues of homogeneity, hard work, and self-improvement" --- established "the outline of what was to become Hollywood's trademark take on the legend" p. 57
+- by the 30s and 40s, there was less idealization of medieval times and more of Twain-style "valorization of a technological and civilized modernity over a backward and barbaric Middle Ages" a la *A Connecticut Yankee in King Arthur's Court* p. 58
+    - in fact there was no arthurian film between 1931 and 1949 (a time bookended by two different CT Yankee adaptations!)
+    - the pre-war (WWII) time period has also been described as that of more liberal/radical/left Hollywood concerned about class struggle, hence (a possible reason for) not wanting to deal with an idealized version of white aristocratic masculinity
+    - during WWII, movies were almost entirely contemporariy set, hence no arthuriana then
+- "In the early 1950s, market, technology, and idealogy converged to encourage Hollywood to adapt Arthurian legend to the 'Hollywood formula,' producing a series of films that, with one eye on HUAC, focused on Camelot and its knights as proto-American ideal and that, in the tradition of American medievalism, used the medieval past to make an argument about the nation's present." p. 65
+    - HUAC = we hate communism organization keeping Hollywood from producing anything deemed "communist"
+    - seen in *The Adventures of Sir Galahad* (1949-1950), MGM's *Ivanhoe* (1952), MGM's first cinemascope feature *The Knights of the Round Table* (1952) [based on Malory's *Morte D'Arthur*], Fox's *Prince Valiant* (1954), and Warwick-Colombia's *The Black Knight* (1954)
+        - "Idealogically, the Arthurian stories presented in all three of these films [the last three of the above list] revise their sources (*Knights* and *Valiant*) or write a new Arthurian narrative (in *The Black Knight*) to adapt Arthurian legend to both the unwritten rules of the Hollywood formula--'an emphasis on the individual,' the argument 'that anyone can aspire to success,' and 'a them-us identification process where good equals us ... and conflict is resolved through the use of righteous force, with our American values winning out'--and the written rules of the production code--particularly those governing adultery and illicit sex" p. 65
+         - though, Aronstein says *The Knights of the Round Table* came out in 1952, everything (and I mean *everything*) online says it came out in 1953 or 1954, except for one [Variety article](https://variety.com/1952/film/reviews/knights-of-the-round-table-1200417470/) I found that is labeled as an "Extract of a review from 1953" even though it clearly says at the top of the page that it is from "Dec 31, 1952 11:00pm PT" ?????
+- 1950s cold war america themes injected into arthuriana at this point:
+    - "America as the new promised land" p. 65
+    - "the valorization of medieval violence as the 'midwife to national greatness'" p. 65
+    - "the use of chivalric training to construct subjects who conform to ideals of obedience, duty, and public service" p. 65
+    - the enemy within (aka communism) -- this one was actually already in arthurian legend
+- 
+
+### Specific relationships
+- *The Knights of the Round Table* 195?
+    - based on Malary's *Morte D'Arthur*
+- *Prince Valiant* 1954
+    - based on Hal Foster's Sunday comic strip titled *Prince Valiant* (Aronstein, p. 73)
+        - based on the story of Valient (any particular version??)
+    - "*Valiant* casts its McCarthy-era narrative in a **Perceval*-style tale" (Aronstein, p. 73) -- has a "*Perceval* motif" (Aronstein, p. 74)
+- 
