@@ -5,7 +5,7 @@ dot = graphviz.Digraph('cinematic_arthuriana_influences', comment="Influences on
 '''
 Key
 
-node formats:
+media formats:
  - Film = green
  - Medieval Text = red
  - Novel = blue
@@ -14,7 +14,7 @@ node formats:
 relationship types:
  - Adaptation = purple
  - Inspiration = cyan
- - Continuation (i.e. same series) = 
+ - Continuation (i.e. same series) = black
 
 
 '''
