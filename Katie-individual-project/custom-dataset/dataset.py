@@ -180,57 +180,57 @@ book_covers = [
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "W. H. D. Rouse",
+        "cover_image": "https://images.isbndb.com/covers/15230993482703.jpg",
+        "publication_year": 1964,
+        "publishing_company": "GROSSET UNIVERSAL LIBRARY",
+        "isbn_13": 9781448032136,
+        "cover_type": "Paperback"
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "Stephen Mitchell",
+        "cover_image": "https://m.media-amazon.com/images/I/61Tmf9pRPYL._SY522_.jpg",
+        "publication_year": 2013,
+        "publishing_company": "Weidenfeld & Nicolson",
+        "isbn_13": 9780753827772,
+        "cover_type": "Paperback"
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "Caroline Alexander",
+        "cover_image": "https://m.media-amazon.com/images/I/A1a06Bv9AbL._SY522_.jpg",
+        "publication_year": 2017,
+        "publishing_company": "Vintage Classics",
+        "isbn_13": 9781784870577,
+        "cover_type": "Paperback"
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "Anthony Verity",
+        "cover_image": "https://m.media-amazon.com/images/I/81QElTQ5RRL._SY466_.jpg",
+        "publication_year": 2012,
+        "publishing_company": "Oxford University press",
+        "isbn_13": 9780199645213,
+        "cover_type": "Paperback"
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "E. V. Rieu",
+        "cover_image": "https://m.media-amazon.com/images/I/91sK23D9A4L._SY522_.jpg",
+        "publication_year": 2014,
+        "publishing_company": "Penguin Classics",
+        "isbn_13": 9780141394657,
+        "cover_type": "Hardcover"
     },    
     {
         "title": "Iliad",
-        "translator": "example",
-        "cover_image": "example",
-        "publication_year": 0,
-        "publishing_company": "example",
-        "isbn_13": 0,
-        "cover_type": "example"
+        "translator": "Martin Hammond",
+        "cover_image": "https://m.media-amazon.com/images/I/81K5OtgQOGL._SY522_.jpg",
+        "publication_year": 1987,
+        "publishing_company": "Penguin Classics",
+        "isbn_13": 9780140444445,
+        "cover_type": "Paperback"
     },    
     {
         "title": "Iliad",
