@@ -25,7 +25,7 @@ Include at least 2-3 relevant published scholarly sources that help explain your
 
 ### answer
 
-To preface, I want to say that I have not yet collected/organized all of my data point. That is because
+To preface, I want to say that I have not yet collected/organized all of my data points. That is because
 1) I wasn't able to get the go ahead for my unique format until shortly before the deadline (amidst many other midterm projects which unfortunately took away from the amount of time I had to construct this dataset), and
 2) collecting this form of relational data takes a lot of background reading (reading up on every individual data point) and I'm unfortunately an incredibly slow reader (thank you neurodiversity).
 
@@ -55,7 +55,11 @@ Scholarly Sources:\
 
 ### answer
 
+I plan to audit [The Arthurian Preservation Project](https://www.arthurianpreservationproject.com). This website is "An Archive of Open-Access Arthurian Media," with the four-fold mission to locate, digitize, archive, and educate. While my custom dataset is focused on the relationships between arthurian media, this archive is focused on preserving arthurian media, providing access to said media, and providing educational guides for navigating the complex world of arthuriana. As the archive's format-based organizational structure is fairly straightforward (though there would certainly be complexities to investigate here), I have decided to investigate the way media is organized in the two educational guides:
+- [The Beginner's Guide to Medieval Arthuriana](https://www.arthurianpreservationproject.com/further-reading/beginners-guide-to-medieval-arthuriana)
+- [The Beginner's Guide to Arthurian Cinema](https://www.arthurianpreservationproject.com/further-reading/beginners-guide-to-arthurian-cinema)
 
+Exploring these two pages will be very interesting because the way information is organized on these pages is very unique/evidently subjective and specific to their educational purpose, which is very different from many other, often seemingly objective, ways of organizing collections of media (ex: the format-based organization of the site's navigation side-bar).
 
 
 ## Reflection
