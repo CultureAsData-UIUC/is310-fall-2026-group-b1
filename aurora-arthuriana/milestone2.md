@@ -3,27 +3,6 @@
 "Since each new Camelot builds, however grudgingly, on the stones of its predecessors and each new Arthurian utopia creates itself in dialogue with other Arthurian pasts, no Arthurian text stands completely alone, including [...] Hollywood's cinematic retellings of the rise and fall of Camelot." (Aronstein, p. 30)
 
 ## Initial Documentation
-### instructions
-If you do not have your full dataset, that is acceptable but you should detail why you have yet to collect it all and **your plan for completion**.
-
-Your first attempt at documentation that explains:
-- the dataset, its: 
-    - fields
-    - categories
-    - organization
-    - inclusion or exclusion
-- your process
-- your interpretive choices
-- relevant scholarly context
-- **how someone else should understand or reuse the data.**
-
-This should document:
-- how your cultural materials became a working representation and 
-- how that representation became structured data.
-
-Include at least 2-3 relevant published scholarly sources that help explain your topic, cultural materials, categories, methods, or ethical concerns.
-
-### answer
 
 To preface, I want to say that I have not yet collected/organized all of my data points. That is because:
 1) I wasn't able to get the go ahead for my unique format until shortly before the deadline (amidst many other midterm projects which unfortunately took away from the amount of time I had to construct this dataset), and
@@ -67,12 +46,6 @@ Once I have deemed a relationship from my notes to be substantial or well-suppor
 The graph created from this code should be an easy-to-understand representation of the influences on Arthurian cinema, but in the case that someone should like more information on the relationships documented in the graph, they will be able to view my research notes via GitHub. As for reusing this data, one may find it useful to simply find relationships visually via the graph, or one may prefer to use the source code of the graph (in dot or python format) to go through the relationships more systematically.
 
 ## Audit & Connection Plan
-### instructions
-- Identify the existing thing [dataset, collection, platform, API, archive, or source] you will audit or compare.
-- Explain how the audit will **connect to the custom dataset** and **what you plan to investigate**.
-- How will this **help you understand existing culture as data**?
-
-### answer
 
 I plan to audit [The Arthurian Preservation Project](https://www.arthurianpreservationproject.com). This website is "An Archive of Open-Access Arthurian Media," with the four-fold mission to locate, digitize, archive, and educate. While my custom dataset is focused on the relationships between arthurian media, this archive is focused on preserving arthurian media, providing access to said media, and providing educational guides for navigating the complex world of arthuriana. As the archive's format-based organizational structure is fairly straightforward (though there would certainly be complexities to investigate here), I have decided to investigate the way media is organized in the two educational guides:
 - [The Beginner's Guide to Medieval Arthuriana](https://www.arthurianpreservationproject.com/further-reading/beginners-guide-to-medieval-arthuriana)
