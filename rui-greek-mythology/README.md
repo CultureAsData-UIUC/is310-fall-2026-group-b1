@@ -178,6 +178,6 @@ For the next stage, I would consider adjusting the function codebook because som
 3. **Buxton, Richard. *Imaginary Greece: The Contexts of Mythology*. Cambridge University Press, 1994.** Greek myths are not just stories; they must be understood through the settings in which they were told: the household, festivals, the theatre, and so on. This is why my dataset has a `narrative_frame` field and uses one row per version.
 
 
-## 12. AI use statement
+## 11. AI use statement
 
 I used Claude to assist me with this assignment, including structuring readme, developing codes and organizing function meanings (data file).
