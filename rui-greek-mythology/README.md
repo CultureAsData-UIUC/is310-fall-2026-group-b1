@@ -180,4 +180,4 @@ For the next stage, I would consider adjusting the function codebook because som
 
 ## 12. AI use statement
 
-I used Claude with my datset and myth_audit.py. It planned out the function meanings in README
+I used Claude to assist me with this assignment, including structuring readme, function meanings and myth_audit.py.
