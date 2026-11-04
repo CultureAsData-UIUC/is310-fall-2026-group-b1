@@ -1,5 +1,6 @@
 // Influences on Cinematic Athuriana
 digraph cinematic_arthuriana_influences {
+	compound=true
 	"Prince Valiant (1954)" [color=green]
 	"Prince Valiant (1997)" [color=green]
 	"Hal Foster's Prince Valiant" [color=orange]
@@ -9,6 +10,15 @@ digraph cinematic_arthuriana_influences {
 	"Richard Wagner's Parsival" [color=yellow]
 	"Parzival by Wolfram von Eschenbach" [color=red]
 	"Perceval, the Story of the Grail by Chrétien de Troyes" [color=red]
+	"Disney's The Sword in the Stone" [color=green]
+	"Camelot (1967)" [color=green]
+	"Camelot (musical)" [color=yellow]
+	"The Sword in the Stone" [color=blue]
+	"The Queen of Air and Darkness" [color=blue]
+	"The Ill-Made Knight" [color=blue]
+	"The Candle in the Wind" [color=blue]
+	"The Book of Merlyn" [color=blue]
+	"Le Morte D'Arthur" [color=red]
 	"Hal Foster's Prince Valiant" -> "Prince Valiant (1954)" [color=purple]
 	"Hal Foster's Prince Valiant" -> "Prince Valiant (1997)" [color=purple]
 	"Perceval, the Story of the Grail by Chrétien de Troyes" -> "Prince Valiant (1954)" [color=cyan]
@@ -17,4 +27,17 @@ digraph cinematic_arthuriana_influences {
 	"Richard Wagner's Parsival" -> "Parsival (1982)" [color=purple]
 	"Parzival by Wolfram von Eschenbach" -> "Richard Wagner's Parsival" [color=cyan]
 	"Perceval, the Story of the Grail by Chrétien de Troyes" -> "Richard Wagner's Parsival" [color=cyan]
+	subgraph "cluster The Once and Future King by T.H. White" {
+		color=blue
+		"The Sword in the Stone" -> "The Queen of Air and Darkness"
+		"The Queen of Air and Darkness" -> "The Ill-Made Knight"
+		"The Ill-Made Knight" -> "The Candle in the Wind"
+		"The Candle in the Wind" -> "The Book of Merlyn"
+		label="The Once and Future King by T.H. White"
+	}
+	"The Sword in the Stone" -> "Disney's The Sword in the Stone" [color=purple]
+	"Camelot (musical)" -> "Camelot (1967)" [color=purple]
+	"The Ill-Made Knight" -> "Camelot (musical)" [color=purple]
+	"The Candle in the Wind" -> "Camelot (musical)" [color=purple]
+	"Le Morte D'Arthur" -> "The Sword in the Stone" [color=purple lhead="cluster The Once and Future King by T.H. White"]
 }

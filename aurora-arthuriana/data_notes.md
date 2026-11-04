@@ -46,3 +46,9 @@ Aronstein:
      - Spanish film, also based on Wagner *Parsival* opera (Wikipedia)
  - *Parsival* 1982
      - West-German/French film, also also based on Wagner opera (Wikipedia)
+ - Disney's *The Sword in the Stone* 1963
+     - adapted from T.H. White's novel of the same name (opening credits), which is the first in his *Once and Future King* series
+         - based on Thomas Malory's *Le Morte D'Arthur* (Wikipedia)
+ - *Camelot* 1967
+     - adapted from Broadway musical of the same name (Wikipedia)
+         - adapted from T.H. White's *The Ill-made Knight* and *The Candle in the Wind*, which are the 3rd and 4th novels in the *Once and Future King* series (Wikipedia)
