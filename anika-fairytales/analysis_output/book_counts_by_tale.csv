@@ -1,0 +1,6 @@
+original_tale,book_count,fairytalez_rank,expected_target,matches_target
+Rapunzel,15,2,15,True
+Cinderella,15,3,15,True
+Baba Yaga,12,20,12,True
+The Pied Piper of Hamelin,10,79,10,True
+The Wild Swans,10,85,10,True
