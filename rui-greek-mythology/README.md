@@ -180,4 +180,4 @@ For the next stage, I would consider adjusting the function codebook because som
 
 ## 12. AI use statement
 
-Claude proposed the narrowed scope and data structure, drafted the 72 dataset rows and 111 function claims from its own knowledge of the ancient sources, wrote myth_audit.py, and drafted sections 1–8, 10 and 11 of this README. 
+I used Claude with my datset and myth_audit.py. It planned out the function meanings in README
