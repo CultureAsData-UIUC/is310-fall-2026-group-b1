@@ -1,0 +1,53 @@
+version_id,myth,source,theoi_page,author_cited,work_cited,locus_match,myth_mentions,cited_as
+V001,Prometheus,"Hesiod, Theogony 507–616",Titan/TitanPrometheus.html,yes,yes,yes,425," | 507 | 507, | 511"
+V002,Prometheus,"Hesiod, Works and Days 42–58",Titan/TitanPrometheus.html,yes,yes,yes,425, | 42
+V003,Prometheus,"[Aeschylus], Prometheus Bound whole play (esp. 1–87)",Titan/TitanPrometheus.html,yes,yes,no,425, | 1 | 106 | 115 | 168 | 18 | 200 | 211 | 228 | 249 | 257 | 309 | 399 | 439 | 441 | 482 | 511 | 545 | 555 | 612 | 622 | 
+V004,Prometheus,"Plato, Protagoras 320c–322d",Titan/TitanPrometheus.html,yes,yes,yes,425, | 320c
+V005,Pandora,"Hesiod, Works and Days 59–105",Heroine/Pandora.html,yes,yes,no,44, | 156
+V006,Pandora,"Hesiod, Theogony 570–612",Heroine/Pandora.html,yes,yes,yes,44," | 510 | 560 | 560,"
+V011,Tityos,"Homer, Odyssey 11.576–581",Gigante/GiganteTityos.html,yes,yes,yes,34," | 11. 576 | 11.580, | 7. 324"
+V013,Niobe,"Homer, Iliad 24.602–617",Olympios/ArtemisWrath.html,yes,yes,yes,31, | 24. 602
+V014,Niobe,"Ovid, Metamorphoses 6.146–312",Olympios/ArtemisWrath.html,yes,yes,yes,31, | 3. 138 | 6. 146
+V015,Niobe,"Apollodorus, Library 3.5.6",Olympios/ArtemisWrath.html,yes,yes,yes,31, | 1. 22 | 1. 25 | 1. 53 | 3. 30 | 3. 46
+V016,Arachne,"Ovid, Metamorphoses 6.1–145",Heroine/Arakhne.html,yes,yes,yes,25, | 6. 1 | 6.8
+V017,Lycaon,"Ovid, Metamorphoses 1.163–252",Heros/Lykaon.html,yes,yes,yes,162, | 1. 163 | 2. 496 | 2.409
+V018,Lycaon,"Pausanias, Description of Greece 8.2.3–7",Heros/Lykaon.html,yes,yes,yes,162, | 1. 25. 1 | 10. 31. 10 | 10. 9. 5 | 6. 21. 10 | 6. 8. 2 | 8. 17. 6 | 8. 2. 1 | 8. 26. 1 | 8. 26. 6 | 8. 26. 8 | 8. 29.
+V019,Lycaon,"Apollodorus, Library 3.8.1",Heros/Lykaon.html,yes,yes,yes,162, | 3. 8. 1 | 3. 8. 2
+V021,Polyphemus,"Homer, Odyssey 9.105–566",Gigante/GigantePolyphemos.html,yes,yes,yes,37," | 1. 68 | 1.70, | 10. 201 | 10. 434 | 12. 211 | 13. 341 | 2. 19 | 20. 17 | 23. 310 | 9. 110 | 9.187"
+V024,Actaeon,"Euripides, Bacchae 337–340",Olympios/ArtemisWrath.html,yes,yes,no,29,"230, 340"
+V025,Actaeon,"Ovid, Metamorphoses 3.138–252",Olympios/ArtemisWrath.html,yes,yes,yes,29, | 3. 138 | 6. 146
+V026,Actaeon,"Apollodorus, Library 3.4.4",Olympios/ArtemisWrath.html,yes,yes,yes,29, | 1. 22 | 1. 25 | 1. 53 | 3. 30 | 3. 46
+V027,Pentheus,"Euripides, Bacchae whole play (esp. 1–63)",Olympios/DionysosWrath.html,yes,no,n/a,12,
+V028,Lycurgus,"Homer, Iliad 6.130–140",Heros/Lykourgos.html,yes,yes,yes,37," | 6. 129 | 6.129,"
+V029,Bellerophon,"Homer, Iliad 6.155–205",Heros/Bellerophontes.html,yes,yes,yes,113," | 16. 327 | 6. 144 | 6.154 | 6.154,"
+V030,Bellerophon,"Pindar, Isthmian 7 43–48",Heros/Bellerophontes.html,yes,yes,yes,113,. 44
+V031,Phaethon,"Ovid, Metamorphoses 1.750–2.400",Titan/Phaethon.html,yes,yes,yes,79," | 1. 252 | 1. 750 | 1.751, | 4. 245"
+V034,Marsyas,"Herodotus, Histories 7.26",Georgikos/SatyrosMarsyas.html,yes,yes,no,86, | 1. 14. 3 | 2. 26. 3
+V035,Marsyas,"Apollodorus, Library 1.4.2",Georgikos/SatyrosMarsyas.html,yes,yes,yes,86, | 1. 24
+V036,Marsyas,"Ovid, Metamorphoses 6.382–400",Georgikos/SatyrosMarsyas.html,yes,yes,yes,86, | 6. 382 | 6.382
+V037,Midas,"Ovid, Metamorphoses 11.146–193",Heros/Midas.html,yes,yes,yes,106, | 11. 146 | 11. 85
+V038,Salmoneus,"Apollodorus, Library 1.9.7",Heros/Salmoneus.html,yes,yes,yes,40, | 1. 7. 3 | 1. 9. 11 | 1. 9. 7
+V039,Salmoneus,"Virgil, Aeneid 6.585–594",Heros/Salmoneus.html,yes,yes,yes,40, | 6. 548
+V040,Ajax the Lesser,"Homer, Odyssey 4.499–511",Olympios/AthenaWrath.html,yes,no,n/a,17,
+V042,Agamemnon and the deer,"Sophocles, Electra 563–574",Olympios/ArtemisWrath.html,no,no,n/a,2,
+V043,Asclepius,"Pindar, Pythian 3 54–60",Ouranios/Asklepios.html,yes,yes,yes,198,". 45 | . 5 | . 54 | .5,"
+V044,Coronis,"Pindar, Pythian 3 8–46",Heroine/Koronis.html,yes,yes,yes,56,". 48 | . 5 | .5, | .8"
+V045,Hippolytus,"Euripides, Hippolytus whole play (esp. 1–57)",Olympios/AphroditeWrath.html,yes,yes,no,10,
+V047,Orion,"Homer, Odyssey 5.121–124",Gigante/GiganteOrion.html,yes,yes,yes,104, | 11. 312 | 11. 572 | 5. 121
+V048,Orion,"Apollodorus, Library 1.4.3–5",Gigante/GiganteOrion.html,yes,yes,yes,104, | 1. 25
+V049,Erysichthon,"Callimachus, Hymn 6 (to Demeter) 24–117",Heros/Erysikhthon.html,yes,yes,no,9,
+V050,Erysichthon,"Ovid, Metamorphoses 8.738–878",Heros/Erysikhthon.html,yes,yes,yes,9, | 8. 739
+V051,Cassiopeia,"Apollodorus, Library 2.4.3",Heros/Perseus2.html,yes,yes,yes,8, | 1. 87 | 2. 43 | 2. 45 | 2. 47 | 2. 49
+V052,Meleager and Oeneus,"Homer, Iliad 9.529–599",Olympios/ArtemisWrath2.html,yes,yes,yes,16, | . | 9. 530
+V055,Otus and Ephialtes,"Homer, Odyssey 11.305–320",Gigante/GigantesAloadai.html,yes,yes,yes,43," | 11. 305 | 11.305,"
+V056,The cattle of Helios,"Homer, Odyssey 12.260–419",Titan/Helios.html,yes,yes,yes,21," | 1. 8 | 11. 102 | 12. 127 | 12. 168 | 12. 261 | 12.168, | 8. 260"
+V058,Minos and the bull,"Apollodorus, Library 3.1.3–4",Titan/Pasiphae.html,yes,yes,yes,43, | 1. 80 | 3. 197 | 3. 7 | 3. 8
+V059,Admetus,"Apollodorus, Library 1.9.15",Olympios/ArtemisWrath.html,yes,yes,yes,1, | 1. 22 | 1. 25 | 1. 53 | 3. 30 | 3. 46
+V062,Io,"[Aeschylus], Prometheus Bound 561–886",Heroine/Io.html,yes,yes,yes,76," | 561 | 589, | 631 | 700 | 823 | 844 | 877"
+V063,Callisto,"Ovid, Metamorphoses 2.401–530",Heroine/Kallisto.html,yes,yes,yes,48," | 2. 409 | 2.409 | 2.409,"
+V064,Callisto,"Apollodorus, Library 3.8.2",Heroine/Kallisto.html,yes,yes,no,48, | 3. 100
+V065,Narcissus,"Ovid, Metamorphoses 3.339–510",Heros/Narkissos.html,yes,yes,yes,30, | 3. 339 | 3.340
+V066,The Minyades,"Ovid, Metamorphoses 4.1–54; 4.389–415",Heroine/Minyades.html,yes,yes,yes,7," | 4. 1, 272 | 4. 422 | 4.1 | a"
+V067,The Minyades,"Antoninus Liberalis, Metamorphoses 10",Heroine/Minyades.html,yes,yes,yes,7, | 10
+V068,The Proetides,"Bacchylides, Ode 11 40–112",Olympios/HeraWrath.html,no,no,n/a,2,
+V071,Aglauros,"Ovid, Metamorphoses 2.708–832",Olympios/AthenaWrath.html,yes,yes,yes,6, | 2. 550 | 2. 748 | 4. 790 | 6. 1
