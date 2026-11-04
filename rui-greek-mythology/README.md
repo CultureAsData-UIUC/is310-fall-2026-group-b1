@@ -90,7 +90,7 @@ Following the Milestone 1 feedback, I narrowed my topic from "the social functio
 
 ## 5. From cultural material to data
 
-**Step 1: from stories to a working representation.** I started with the myths and the sources that tell them, read in English translation. For each version I noted the plot, who tells the story, to whom, and why. Already at this stage I was making choices:
+**Step 1: from stories to a working representation.** Each version was drafted by recording its plot, who tells the story, to whom, and why. Already at this stage I was making choices:
 - what counts as "the" transgression when a source gives none (Homer's Tantalus and Sisyphus)
 - whether a victim like Io belongs in a "punishment" dataset at all
 - how to treat a source that gives two competing versions (Apollodorus on Actaeon)
@@ -110,7 +110,7 @@ Following the Milestone 1 feedback, I narrowed my topic from "the social functio
   - punishments of gods by gods, such as the Titans, because they are about cosmic order rather than human conduct
   - versions known only from brief allusions
   - fragmentary plays, such as Sophocles' *Tereus* and Euripides' *Phaethon*: there isn't enough text to judge how the story was used
-- **Translations:** all reading was done in English translation. The line numbers follow the standard numbering of the Greek and Latin texts.
+- **Translations:** The entries have not yet been checked against translations. The line numbers follow the standard numbering of the Greek and Latin texts.
 
 ## 7. Computational process
 
@@ -164,9 +164,7 @@ It does three things:
 2. **Classification:** Theoi files stories under the god who punishes, such as "Wrath of Artemis". My dataset files them by what the story is used to teach. What does each way of classifying hide?
 3. **Interpretation:** Theoi mostly quotes sources without saying what a story meant. Where it does comment, I'll compare that with my evidence-coded claims.
 
-**Scaling up after this milestone:**
-- **Option 1:** Extend the script to read every Theoi "Wrath" and "Punishment in Hades" page and extract all quoted citations automatically. That could produce 500–1,000 citation records. I would then classify their narrative frame with keyword rules and hand-check a sample. The hard part is that the most interesting fields, `narrative_frame` and `function_code`, are interpretive. Automating them will flatten exactly the complexity this dataset is meant to keep.
-- **Option 2:** Merge my 72 hand-coded versions with Theoi's citations, and use my rows as a "gold standard" to measure what an automatic approach gets wrong.
+
 
 ## 9. Reflection
 
@@ -175,11 +173,11 @@ For the next stage, I would consider adjusting the function codebook because som
 
 ## 10. Scholarly sources
 
-> These short explanations are a starting point; rewrite them in your own words and add page numbers once you've read the relevant sections.
+1. **"V. Mythology." *New Surveys in the Classics* 46 (2016): 64–78.** This survey treats myth as part of Greek culture rather than as entertainment or a story. This supports my focus on what myths did for communities, including my `RESPECT_GODS` and `ETIOLOGY` codes.
+2. **Detienne, Marcel, and Jean-Pierre Vernant, eds. *The Cuisine of Sacrifice among the Greeks*. Trans. Paula Wissing. University of Chicago Press, 1989.** This conveys that myths' purpose is about "doing" something for a community beyond teaching a moral. It is the source of claim C002, about Prometheus and sacrifice.
+3. **Buxton, Richard. *Imaginary Greece: The Contexts of Mythology*. Cambridge University Press, 1994.** Greek myths are not just stories; they must be understood through the settings in which they were told: the household, festivals, the theatre, and so on. This is why my dataset has a `narrative_frame` field and uses one row per version.
 
-1. **"V. Mythology." *New Surveys in the Classics* 46 (2016): 64–78.** This survey treats myth as part of Greek religion rather than as entertainment. That is the basis for my `RESPECT_GODS` and `ETIOLOGY` codes, and for recording when a story is tied to a rite or cult.
-2. **Detienne, Marcel, and Jean-Pierre Vernant, eds. *The Cuisine of Sacrifice among the Greeks*. Trans. Paula Wissing. University of Chicago Press, 1989.** Vernant's essay reads Hesiod's Prometheus story as the founding story of Greek animal sacrifice. It's the source of claim C002, and an example of a myth "doing" something for a community beyond teaching a moral.
-3. **Buxton, Richard. *Imaginary Greece: The Contexts of Mythology*. Cambridge University Press, 1994.** Buxton argues that Greek myths must be understood through the settings in which they were told: the household, festivals, the theatre, and so on. That is the idea behind my `narrative_frame` field and my one-row-per-version design.
+These descriptions of the sources have not yet been confirmed against the sources themselves.
 
 ## 11. Things still to verify
 
