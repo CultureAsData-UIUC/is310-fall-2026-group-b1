@@ -177,12 +177,6 @@ For the next stage, I would consider adjusting the function codebook because som
 2. **Detienne, Marcel, and Jean-Pierre Vernant, eds. *The Cuisine of Sacrifice among the Greeks*. Trans. Paula Wissing. University of Chicago Press, 1989.** This conveys that myths' purpose is about "doing" something for a community beyond teaching a moral. It is the source of claim C002, about Prometheus and sacrifice.
 3. **Buxton, Richard. *Imaginary Greece: The Contexts of Mythology*. Cambridge University Press, 1994.** Greek myths are not just stories; they must be understood through the settings in which they were told: the household, festivals, the theatre, and so on. This is why my dataset has a `narrative_frame` field and uses one row per version.
 
-These descriptions of the sources have not yet been confirmed against the sources themselves.
-
-## 11. Things still to verify
-
-- Line numbers marked `medium` in `locus_confidence`, and claims marked `medium` or `low` confidence, should be checked against a translation, such as the Loeb Classical Library or the Perseus Digital Library.
-- Theoi's `Titan/Phaethon.html` page may describe a different Phaethon than Ovid's son of the Sun.
 
 ## 12. AI use statement
 
