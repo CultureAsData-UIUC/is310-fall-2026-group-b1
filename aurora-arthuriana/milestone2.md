@@ -16,8 +16,9 @@ In this dataset, I have created a relational digraph that documents movies based
 media formats:
  - Film = green
  - Medieval Text = red
- - Novel = blue
- - Other = yellow
+ - Book = blue
+ - Stage Production = yellow
+ - Other = orange
 
 relationship types:
  - Adaptation = purple

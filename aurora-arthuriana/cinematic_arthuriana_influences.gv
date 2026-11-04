@@ -1,6 +1,20 @@
 // Influences on Cinematic Athuriana
 digraph cinematic_arthuriana_influences {
 	"Prince Valiant (1954)" [color=green]
-	"Hal Foster's Prince Valiant" [color=yellow]
+	"Prince Valiant (1997)" [color=green]
+	"Hal Foster's Prince Valiant" [color=orange]
+	"Parsival (1904)" [color=green]
+	"The Evil Forest" [color=green]
+	"Parsival (1982)" [color=green]
+	"Richard Wagner's Parsival" [color=yellow]
+	"Parzival by Wolfram von Eschenbach" [color=red]
+	"Perceval, the Story of the Grail by Chrétien de Troyes" [color=red]
 	"Hal Foster's Prince Valiant" -> "Prince Valiant (1954)" [color=purple]
+	"Hal Foster's Prince Valiant" -> "Prince Valiant (1997)" [color=purple]
+	"Perceval, the Story of the Grail by Chrétien de Troyes" -> "Prince Valiant (1954)" [color=cyan]
+	"Richard Wagner's Parsival" -> "Parsival (1904)" [color=purple]
+	"Richard Wagner's Parsival" -> "The Evil Forest" [color=purple]
+	"Richard Wagner's Parsival" -> "Parsival (1982)" [color=purple]
+	"Parzival by Wolfram von Eschenbach" -> "Richard Wagner's Parsival" [color=cyan]
+	"Perceval, the Story of the Grail by Chrétien de Troyes" -> "Richard Wagner's Parsival" [color=cyan]
 }

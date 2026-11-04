@@ -31,10 +31,18 @@ Aronstein:
 - 
 
 ### Specific relationships
-- *The Knights of the Round Table* 195?
-    - based on Malary's *Morte D'Arthur*
-- *Prince Valiant* 1954
-    - based on Hal Foster's Sunday comic strip titled *Prince Valiant* (Aronstein, p. 73)
-        - based on the story of Valient (any particular version??)
-    - "*Valiant* casts its McCarthy-era narrative in a **Perceval*-style tale" (Aronstein, p. 73) -- has a "*Perceval* motif" (Aronstein, p. 74)
-- 
+ - *The Knights of the Round Table* 195?
+     - based on Malary's *Morte D'Arthur*
+ - *Prince Valiant* 1954
+     - based on Hal Foster's Sunday comic strip titled *Prince Valiant* (Aronstein, p. 73)
+         - based on the story of Valient (any particular version??)
+     - "*Valiant* casts its McCarthy-era narrative in a **Perceval*-style tale" (Aronstein, p. 73) -- has a "*Perceval* motif" (Aronstein, p. 74)
+ - *Prince Valiant* 1997
+     - also based on Hal Foster's comics (Wikipedia)
+ - *Parsival* 1904
+     - based on opera of same name by Richard Wagner (Wikipedia)
+         - a German opera; "the work is freely based on the 13th-century Middle High German chivalric romance Parzival of the Minnesänger Wolfram von Eschenbach and the Old French chivalric romance Perceval ou le Conte du Graal by the 12th-century trouvère Chrétien de Troyes, recounting different accounts of the story of the Arthurian knight Parzival (Percival) and his spiritual quest for the Holy Grail." (Wikipedia)
+ - *The Evil Forest* 1951
+     - Spanish film, also based on Wagner *Parsival* opera (Wikipedia)
+ - *Parsival* 1982
+     - West-German/French film, also also based on Wagner opera (Wikipedia)
