@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 output_file = Path("a_thousand_covers.json")
+import csv 
 
 from rich.console import Console
 console = Console()
@@ -516,6 +517,11 @@ book_covers = [
 """
 
 def initial_table(book_list):
+    with open("a_thousand_covers.csv", "w", newline= "") as newfile:
+        writer = csv.writer(newfile)
+        writer.writerow(["Title", "Translator", "Cover Image", "Publication Year", 
+        "Publishing Company", "ISBN-13", "Cover Type"])
+        
     table = Table(title="Iliad and Odyssey Dataset", style="dark_blue")
     table.add_column("Title", justify="center")
     table.add_column("Translator", justify="center")
@@ -524,6 +530,7 @@ def initial_table(book_list):
     table.add_column("Publishing Company", justify="center")
     table.add_column("ISBN-13", justify="center")
     table.add_column("Cover Type", justify="center")
+
     for book in book_list:
         table.add_row(book["title"], book["translator"], book["cover_image"], 
         str(book["publication_year"]), book["publishing_company"],
