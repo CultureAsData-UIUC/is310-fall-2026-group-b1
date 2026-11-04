@@ -517,10 +517,6 @@ book_covers = [
 """
 
 def initial_table(book_list):
-    with open("a_thousand_covers.csv", "w", newline= "") as newfile:
-        writer = csv.writer(newfile)
-        writer.writerow(["Title", "Translator", "Cover Image", "Publication Year", 
-        "Publishing Company", "ISBN-13", "Cover Type"])
         
     table = Table(title="Iliad and Odyssey Dataset", style="dark_blue")
     table.add_column("Title", justify="center")
@@ -540,5 +536,12 @@ def initial_table(book_list):
     
 initial_table(book_covers)
 
+fields = ["title", "translator", "cover_image", "publication_year", "publishing_company", "isbn_13", "cover_type"]
+
+with open("a_thousand_covers.csv", "w", newline= "") as newfile:
+    writer = csv.DictWriter(newfile, fieldnames=fields)
+    writer.writeheader()
+    writer.writerows(book_covers)
+
 output_file.write_text(json.dumps(book_covers, indent=4), encoding="utf-8")
-console.print(f"File saved in {output_file.resolve()}")
+console.print(f"JSON file saved in {output_file.resolve()}")
