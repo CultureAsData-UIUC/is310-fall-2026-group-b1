@@ -36,8 +36,6 @@ I selected five stories:
 
 | Fairy Tale | Fairytalez Rank | Visibility |
 
-|---|---:|---|
-
 | Rapunzel | 2 | High |
 
 | Cinderella | 3 | High |
@@ -56,8 +54,6 @@ I aimed to collect approximately 50–100 book adaptations. My final dataset con
 
 | Fairy Tale | Number of Books |
 
-|---|---:|
-
 | Rapunzel | 15 |
 
 | Cinderella | 15 |
@@ -68,7 +64,7 @@ I aimed to collect approximately 50–100 book adaptations. My final dataset con
 
 | The Pied Piper of Hamelin | 10 |
 
-| \*\*Total\*\* | \*\*62\*\* |
+| Total | 62 |
 
 
 
