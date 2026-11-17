@@ -118,4 +118,3 @@ The source on perceiving and knowing in the *Iliad* and *Odyssey* is interesting
 - Treat visual clustering or LLM-generated themes as optional comparisons with your own documented analysis, rather than replacements for it. Happy to help you with this step!
 
 The most important next step is to make your visual themes more transparent and integrated into the dataset, and then computational experiments can then help you investigate how publishers repeatedly reframe these works for new audiences.
-

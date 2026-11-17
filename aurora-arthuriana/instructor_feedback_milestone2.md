@@ -140,4 +140,3 @@ For the next stage, I would suggest focusing on:
 - Reflecting on what was accepted, rejected, simplified, or made visible as the research moved from reading to graph data.
 
 Overall, this is one of the most formally creative submissions I've ever received, and I would encourage you to keep experimenting with the relational structure. Reproducibility does not require making the project less imaginative. It means making the sources, decisions, uncertainty, and transformation process visible enough that another person can understand how this particular Arthurian network came to exist.
-

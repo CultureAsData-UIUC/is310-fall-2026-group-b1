@@ -93,4 +93,3 @@ For the next stage, I would suggest prioritizing:
 - Expanding the AI statement to explain how generated suggestions were evaluated and revised.
 
 Overall, this is a strong and thoughtfully constructed project. You responded directly to the earlier feedback by narrowing the question, defining a defensible unit of analysis, separating evidence from interpretation, and building computation that tests both the structure of your custom dataset and its relationship to an existing cultural resource. The final project can now focus on interpretation and verification rather than expansion.
-

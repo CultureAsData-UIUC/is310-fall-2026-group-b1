@@ -4,8 +4,6 @@ I really like how substantially you developed this project from the initial prop
 
 Your preliminary finding about Baba Yaga is particularly interesting. Rapunzel and Cinderella appear primarily through direct retellings in your sample, while Baba Yaga more often appears as a figure incorporated into new folklore-inspired narratives. That may tell us something important about the different ways cultural traditions remain visible: some circulate through familiar plots, while others circulate through mobile characters, motifs, and settings.
 
-For the final project, I would focus less on adding more books and more on making the construction of the existing dataset transparent. The collection is already within the expected scope. The main priorities are documenting how the 62 books were found and verified, making your interpretive methodology more consistent, and developing the required audit of one identifiable existing platform or dataset.
-
 ## Initial Custom Dataset
 
 Using Fairytalez's “Top 100 Most Popular Fairy Tales” gives you a reproducible starting point, and I like that you selected stories from several positions rather than studying only the most familiar tales. At the same time, the ranking measures visibility on one particular platform rather than cultural popularity in general.
@@ -55,7 +53,7 @@ There are a few consistency issues worth cleaning up before the final submission
 - The repository contains several timestamped backup datasets.
 - Escaped Markdown characters in the README interfere with its rendering.
 
-I would suggest identifying one authoritative dataset and one current collection and analysis workflow. Further collection is optional; strengthening the documentation and consistency of the existing 62 records would be a productive use of the remaining time.
+I would suggest identifying one authoritative dataset and one current collection and analysis workflow. Further collection is exciting but I think should be seen as somewhat optional until you strengthen the documentation and consistency of the existing 62 records.
 
 ### AI Use and Reflection
 
@@ -65,7 +63,7 @@ Because AI also assisted with interpretive fields, I would suggest making the ve
 
 ## Existing-Data Audit Plan
 
-The main missing component is a concrete plan to audit an identified existing dataset, platform, archive, or collection. The README proposes using scraping, book databases, or APIs to expand the project, but expansion is not the same as an audit and is not necessary for completing this project.
+The main missing component is a concrete plan to audit an identified existing dataset, platform, archive, or collection. The README proposes using scraping, book databases, or APIs to expand the project, but expansion is not the same as an audit. Explain both how you will develop the custom collection and how you will investigate the existing source’s construction and limitations.
 
 Fairytalez itself could be a strong audit target because its ranking already structures your comparison. You could investigate who created and maintains the site, where its story texts and metadata come from, how tales are assigned to countries or traditions, what source versions and translators are identified, which information is missing, and what the platform means by “popular.” A small structured dataset of the Top 100 list or of the pages for your five selected tales could provide concrete evidence for this audit.
 
@@ -90,4 +88,3 @@ For the next stage, I would suggest prioritizing:
 - Bringing relevant scholarship into the methodology and interpretation.
 
 Overall, this is a creative project with a substantial dataset and a genuinely promising comparison. The strongest final version will not necessarily be the one with the most books, but will be the one that makes the interpretive and computational process behind the existing records visible, distinguishes platform visibility from broader cultural popularity, and uses the audit to explain what Fairytalez or Goodreads allows you to know and what remains uncertain.
-

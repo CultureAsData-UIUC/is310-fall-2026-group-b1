@@ -101,4 +101,3 @@ You might also return to Benedict Anderson’s *Imagined Communities* if it help
 - Clarify the role of AI and reflect on what you personally researched, checked, revised, or rejected.
 
 Overall, this project is already doing what a strong culture-as-data project should do: it uses structured data to reveal complexity rather than pretending that classification resolves it. The strongest next step is to develop the current corpus at a careful and documented pace while pursuing the audit questions you have already identified. Your final argument can then show how one digital dataset makes the stories appear stable and self-contained while historical research reveals the people, publications, translations, and cultural connections that produced them.
-

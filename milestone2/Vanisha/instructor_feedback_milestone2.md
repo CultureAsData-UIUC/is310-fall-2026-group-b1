@@ -97,4 +97,3 @@ For the next stage, I would suggest focusing on:
 - Using scholarship on translation, motif classification, and close reading with computers to explain the choices and limits of the method.
 
 Overall, this is a thoughtful project that takes the risks of cross-cultural classification seriously. I would not focus on simply adding more stories or more computation. The strongest final version will show how structured categories can support comparison while still returning readers to specific passages, versions, translations, and interpretive uncertainty.
-
